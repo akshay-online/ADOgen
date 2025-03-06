@@ -60,10 +60,10 @@
     },
     "links": {
         "getstarted": {
-            "uri": "https://github.com/akshay-online/AzureDevOpsGenerator"
+            "uri": "https://github.com/microsoft/AzDevOpsDemoGenerator/"
         },
         "support": {
-            "uri": "https://github.com/akshay-online/AzureDevOpsGenerator/issues"
+            "uri": "https://github.com/microsoft/AzDevOpsDemoGenerator/issues"
         }
     },
     "branding": {
